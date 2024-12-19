@@ -6,4 +6,4 @@ Projects coded in Python:
 
 Projects coded in R:
 
-- Coming soon
+Coming soon
