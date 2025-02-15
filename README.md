@@ -1,4 +1,4 @@
-This is the repo where i upload some tools i coded for to use on the other projects.
+This is the repo where i upload some tools i coded for to use on the future projects.
 
 Projects coded in Python:
 
